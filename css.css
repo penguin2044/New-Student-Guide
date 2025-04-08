@@ -157,6 +157,7 @@ main .even h2 {
 .team img {
 	width: 100%;
 	height: 100%;
+	object-fit: cover;
 }
 .team h3 {
 	width: 100%;
@@ -220,4 +221,7 @@ footer div p button:focus {
 	.ben {
 		margin-top: 10px;
 	}
+}
+.apas {
+	text-align: center;
 }
