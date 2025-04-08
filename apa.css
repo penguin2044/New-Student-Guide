@@ -1,0 +1,15 @@
+MAIN h1 {
+	margin-top: 50px;
+	text-align: center;
+}
+main {
+	padding-left: 15vw;
+	padding-right: 15vw;
+}
+main p {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+nav .on a {
+	background-color: #eec18d !important;
+}
